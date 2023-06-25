@@ -1,0 +1,1 @@
+This program is a simple calculator called MyCalc V-0.1. It prompts the user to enter an operation (addition, subtraction, multiplication, division) or 'exit' to quit. It then asks for two numbers and performs the chosen operation on them. The result is displayed, and the process repeats until the user chooses to exit.
